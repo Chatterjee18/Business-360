@@ -1,5 +1,5 @@
 # Business 360 Project
-
+Live Dashboard - [Link](https://app.powerbi.com/groups/me/reports/83cd50fa-df58-46c1-ba05-5cf46585f477/6b127f0c629fe237268d?experience=power-bi)
 ## Overview
 The **Business 360** project is a comprehensive data analysis and visualization solution developed using Power BI Desktop. It provides actionable insights across various business dimensions such as customer performance, product performance, regional trends, and profitability. The project leverages advanced analytics to support strategic decision-making and operational optimization.
 
